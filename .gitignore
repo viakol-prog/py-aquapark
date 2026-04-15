@@ -13,3 +13,4 @@ venv/
 "check_ast.py" 
 "conftest.py" 
 "findstr" 
+".venv311/" 
