@@ -1,6 +1,5 @@
 from abc import ABC
 from typing import Any, Optional, Type
-# from .my_ast_walker import *  # краще замінити на явний імпорт
 
 
 class IntegerRange:
