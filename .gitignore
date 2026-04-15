@@ -12,3 +12,4 @@ venv/
 "findstr" 
 "check_ast.py" 
 "conftest.py" 
+"findstr" 
