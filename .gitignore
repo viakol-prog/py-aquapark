@@ -9,3 +9,4 @@ venv/
 ".venv311/" 
 "check_ast.py" 
 "conftest.py" 
+"findstr" 
